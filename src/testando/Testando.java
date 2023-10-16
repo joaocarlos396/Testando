@@ -16,6 +16,7 @@ public class Testando {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("i am here");
+        System.out.println("whrere");
     }
     
 }
